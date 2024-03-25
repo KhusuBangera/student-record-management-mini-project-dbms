@@ -1,1 +1,1 @@
-# student-record-management-mini-project-dbms
+# StudentManagementSystem-Using-PHP
