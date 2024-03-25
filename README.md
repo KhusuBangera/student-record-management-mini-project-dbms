@@ -1,1 +1,1 @@
-# StudentManagementSystem-Using-PHP
+# DBMS MINI PROJECT
